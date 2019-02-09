@@ -1,0 +1,55 @@
+ h1{
+color:white;
+background: teal;
+padding:10px;
+text-align:center;
+}
+body {
+  background: linear-gradient(to bottom right,white,red,lemonchiffon);
+}
+.column1 {
+  width: 48%;
+  float: left;
+}
+.column2 {
+  width: 48%;
+  float: right;
+}
+img {
+max-width: 100%;
+}
+.item{
+  padding:10px;
+  border:4px dashed teal;
+}
+  h2{
+color:white;
+background: teal;
+padding:10px;
+text-align:center;
+}
+  #sun {
+  position: absolute;
+  width:20%;
+  top: 0%;
+  left:40%;
+animation: sunrise 3s Infinite;
+}
+  @keyframes sunrise{
+  0% {left:0%; top:75%;}
+  33% {left:40%; top:75%;}
+  66%{left:60%; top:75%;}
+  100% {left:100%; top:75%;}
+  }
+  a:hover{
+  color:yellow;  
+  }
+  h4:hover{
+  background:linear-gradient(blue,yellow);
+  }
+  
+  
+  
+  
+  
+  

@@ -1,0 +1,33 @@
+h1 {
+  background:teal;
+  color:white;
+  padding:10px;
+  text-align:center;
+}
+
+img{
+  max-width:100%;
+}
+
+
+body{
+  background:linear-gradient(to bottom right,blue,white);
+  padding:15px;
+  font-family:verdana;
+  
+}
+
+
+a:hover{
+  color:yellow;
+}
+
+ #i1:hover{
+  width:200px;
+}
+
+
+
+  
+
+

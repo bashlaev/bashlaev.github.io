@@ -1,0 +1,83 @@
+h1 {
+  color:white;
+  background:teal;
+  padding:10px;
+  text-align:center;
+}
+body {
+    background: linear-gradient(to bottom right,yellow,white,blue);
+  }
+  .column1 {
+    width: 48%;
+    float:left;
+  }
+   .column2 {
+    width: 48%;
+    float:right;
+    }
+p {
+  font-size:18px;
+  font-weight:bold;
+  font-family:"Courier New";
+  background:linear-gradient(orange,yellow);
+  padding:50px 30px;
+  border-radius:20px;
+  }
+  #coding {
+  font-size:40px;
+  font-weight:bold;
+  font-family:"Courier New";
+  background:linear-gradient(blue,white,yellow);
+  padding:50px 30px;
+  border-radius:20px;
+  }
+  .sticker {
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  margin: 5px;
+  }
+  #web {
+  font-size:40px;
+  font-family:Impact;
+  text-shadow: 2px 2px grey;
+  background: radial-gradient(yellow, orange, red);
+  padding:30px;
+  border-radius:100px;
+}
+#robot {
+  background:linear-gradient(red,yellow,blue);
+  border: 20px dashed tomato;
+  outline:6px solid tomato;
+  outline-offset:1px;
+}
+   img {
+      max-width:100%;
+    }
+    .item {
+      padding:10px;
+      border:4px dashed teal;
+    }
+     @keyframes sunrise{
+  0% {left:-50%; top:0%;}
+  33% {left:0%; top:0%;}
+  66% {left:0%; top:0%;}
+  100%{left:-50%; top:0%;}
+}
+#rob {
+  position: absolute;
+ width: 50%;
+top:0%;
+left: 40%;
+animation: sunrise 3s infinite;
+}    
+    a:hover {
+      color:green;
+    }
+    h1:hover {
+      color:blue;
+    }
+    p:hover {
+      background:linear-gradient(red,blue);
+    }
+ 

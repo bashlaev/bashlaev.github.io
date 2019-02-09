@@ -1,0 +1,17 @@
+    body{
+       background-color:white;
+     }
+     p {
+       color: blue;
+       border : 5px solid white;
+       border-radius: 1000px;
+     }
+     img {
+       float:left;
+       width: 500px;
+     }
+     div {
+        border: 5px solid green;
+     }
+     
+    }

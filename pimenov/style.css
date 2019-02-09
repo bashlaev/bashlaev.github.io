@@ -1,0 +1,58 @@
+h1{
+color:white;
+background:orange;
+padding:10px;
+text-align:center;
+font-family: Calibri;
+border:3px double white;
+}
+
+body{
+  background: yellow;
+}
+
+.column1 {
+  width: 48%;
+  float:left;
+}
+
+.column2 {
+  width: 48%;
+  float:right;
+}
+
+img {
+  width:100%;
+}
+
+.item {
+  padding:7px;
+  border:4px double orange;
+}
+
+h2{
+color:white;
+background:orange;
+padding:5px;
+text-align:center;
+font-family: Calibri Light;
+border:3px double white;
+}
+
+h3{
+color:white;
+background:orange;
+padding:3px;
+text-align:center;
+font-family: Calibri Light;
+border:3px double white;
+}
+
+.photo {
+  box-shadow: 3px 3px 3px gray;
+  transform: rotate(0deg);
+}
+
+
+
+
