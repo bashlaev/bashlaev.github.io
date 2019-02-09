@@ -1,0 +1,16 @@
+
+h1 {
+  color:white;
+  font-family: segoe script;
+  background: teal;
+  padding:10px;
+  text-align:center;
+}
+#i_love_parus {  
+  width: 100%;
+  height: 50%;
+}
+.item {
+  color:black;
+  padding:10px;
+}
