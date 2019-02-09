@@ -1,0 +1,35 @@
+h1 {
+  background: lightblue;
+  padding: 5px;
+  text-align: center;
+  color: #454545;  
+}
+
+div {
+  overflow: scroll;
+  position: absolute;
+}
+
+#dnipromap {
+  width: 1129px;
+  height: 617px;
+}
+
+.marker {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  border: 2px solid teal;
+  border-radius: 10px;
+}
+
+.markerimg {
+  width: 50px;
+  height: 50px;
+  
+}
+
+#marker1 {
+  top: 170px;
+  left: 40px;
+}
